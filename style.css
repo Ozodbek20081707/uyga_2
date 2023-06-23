@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@500&display=swap');
+
+.qwerty{
+    background-image: url(./Group\ 70.png);
+}
+
+nav {
+    font-family: Grandstander;
+}
+.ytrewq{
+    background-color: white;
+    width: 1423px;
+    height: 121px;
+    flex-shrink: 0;
+    border: 3px solid rgba(0, 0, 0, 1);
+    border-radius: 100px;
+    display: flex;
+    color: #000;
+    font-size: 32px;
+    font-family: Grandstander;
+    margin-left: 260px;
+}
+nav ul{
+    list-style-type:none;
+    display: flex;
+}
+li{
+    margin: 28px;
+    color: #000;
+    font-size: 32px;
+    font-family: Grandstander;
+    margin-top: auto;
+}
+nav li a{
+    text-decoration: none;
+
+}
+.Salford{
+    width: 219px;
+    height: 199px;
+    flex-shrink: 0;
+    margin-top: -60px;
+    margin-left: -20px;
+}
+.special{
+    display: flex;
+}
+.display{
+    display: flex;
+}
+.grab{
+    margin-left: 266px;
+    color: #000;
+    text-shadow: 10px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-size: 128px;
+    font-family: Grandstander;
+    font-weight: 700;
+}
+.alt{
+    margin-left: 9px;
+}
+.gr{
+    width: 27px;
+    height: 48px;
+    flex-shrink: 0;
+    margin-top: 500px;
+}
+.rg{
+    
+    width: 27px;
+    height: 48px;
+    position: relative;
+    left: 0px;
+}
+.Lorem{
+    display: flex;
+    margin-top: 593px;
+    margin-left: -650px;
+    width: 534px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Grandstander;
+    line-height: 34px;
+}
+.learn{
+    display: flex;
+    width: 337px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    border: 3px solid #000;
+    background: #F3CB60;
+    color: #000;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 28px;
+    font-family: Grandstander;
+    font-weight: 500;
+    letter-spacing: 3.36px;
+    margin-top: 835px;
+    margin-left: -560px;
+}
+.design{
+    width: 720px;
+    height: 611px;
+    flex-shrink: 0;
+    margin-left: 418px;
+    margin-top: 135px;
+}
